@@ -1,0 +1,14 @@
+/Users/dominicobiala/WorkSpace/StudentGradeManager/bin/Debug/net10.0/StudentGradeManager
+/Users/dominicobiala/WorkSpace/StudentGradeManager/bin/Debug/net10.0/StudentGradeManager.deps.json
+/Users/dominicobiala/WorkSpace/StudentGradeManager/bin/Debug/net10.0/StudentGradeManager.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/StudentGradeManager/bin/Debug/net10.0/StudentGradeManager.dll
+/Users/dominicobiala/WorkSpace/StudentGradeManager/bin/Debug/net10.0/StudentGradeManager.pdb
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.dll
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/refint/StudentGradeManager.dll
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.pdb
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/StudentGradeManager.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/Debug/net10.0/ref/StudentGradeManager.dll
