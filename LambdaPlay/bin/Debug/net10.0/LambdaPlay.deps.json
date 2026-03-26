@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LambdaPlay/1.0.0": {
+        "runtime": {
+          "LambdaPlay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LambdaPlay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

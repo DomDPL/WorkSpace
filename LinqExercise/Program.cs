@@ -14,37 +14,56 @@ using System.Linq;
     };
     Console.WriteLine("Data ready. Start playing with LINQ!\n");
 
-    // Filter
-    var young = people.Where(p => p.Age < 30);
-    //Console.WriteLine(string.Join("\n", young.Select(p => $"{p.Name}, {p.Age} years old, from {p.City}")));
-    // Project
-    var names = people.Select(p => p.Name);
-    // foreach(var person in people){
-    //     Console.WriteLine(person.Name);
-    // }
-    // Sort
-    var byAge = people.OrderBy(p => p.Age);
-    //Console.WriteLine(string.Join("\n", byAge.Select(p => "Name: " + p.Name + " Age: " + p.Age + " City: " + p.City + " Like Coffe: " + p.LikesCoffee + " Hobbie: " + p.Hobbies)));
+    // // Filter
+    // var young = people.Where(p => p.Age < 30);
+    // //Console.WriteLine(string.Join("\n", young.Select(p => $"{p.Name}, {p.Age} years old, from {p.City}")));
+    // // Project
+    // var names = people.Select(p => p.Name);
+    // // foreach(var person in people){
+    // //     Console.WriteLine(person.Name);
+    // // }
+    // // Sort
+    // var byAge = people.OrderBy(p => p.Age);
+    // //Console.WriteLine(string.Join("\n", byAge.Select(p => "Name: " + p.Name + " Age: " + p.Age + " City: " + p.City + " Like Coffe: " + p.LikesCoffee + " Hobbie: " + p.Hobbies)));
+    //
+    // // Take
+    // var top3 = people.OrderByDescending(p => p.Age).Take(3);
+    // Console.WriteLine(string.Join("\n", top3.Select(p => $"{p.Name}, {p.Age} years old, from {p.City}").Take(3)));
+    //
+    // // Exists?
+    // bool anyGamers = people.Any(p => p.Hobbies.Contains("gaming"));
+    //
+    // // Count
+    // int coffeeLovers = people.Count(p => p.LikesCoffee);
+    //
+    // // Group
+    // var byCity = people.GroupBy(p => p.City);
+    //
+    // // Most common combo
+    // var result = people
+    //     .Where(p => p.Age >= 20 && p.Age <= 35)
+    //     .Where(p => p.Hobbies.Contains("gaming"))
+    //     .OrderBy(p => p.Name)
+    //     .Select(p => $"{p.Name} ({p.City})");
 
-    // Take
-    var top3 = people.OrderByDescending(p => p.Age).Take(3);
-    Console.WriteLine(string.Join("\n", top3.Select(p => $"{p.Name}, {p.Age} years old, from {p.City}").Take(3)));
+    // 1. All people who like coffee
+        var likesCoffee = people.Where(p => p.LikesCoffee);
+        Console.WriteLine(string.Join("\n", likesCoffee.Select(p => $"{p.Name}, {p.Age} years old, from {p.City}").Take(3)));
+    // 2. Names of people whose city starts with "B"
 
-    // Exists?
-    bool anyGamers = people.Any(p => p.Hobbies.Contains("gaming"));
+    // 3. Everyone under 25, sorted youngest → oldest
 
-    // Count
-    int coffeeLovers = people.Count(p => p.LikesCoffee);
+    // 4. All hobbies from everyone (one big flat list) (hint: SelectMany)
 
-    // Group
-    var byCity = people.GroupBy(p => p.City);
+    // 5. People who like both coffee and gaming
 
-    // Most common combo
-    var result = people
-        .Where(p => p.Age >= 20 && p.Age <= 35)
-        .Where(p => p.Hobbies.Contains("gaming"))
-        .OrderBy(p => p.Name)
-        .Select(p => $"{p.Name} ({p.City})");
+    // 6. The person with the most hobbies (name + count)
+
+    // 7. Group by LikesCoffee → show count in each group
+
+    // 8. Cities that have ≥ 2 people
+
+    // 9. (bonus evil) People sorted by number of
 
 class Person
 {

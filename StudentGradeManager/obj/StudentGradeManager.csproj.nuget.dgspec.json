@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dominicobiala/WorkSpace/StudentGradeManager/StudentGradeManager.csproj": {}
+    "/Users/dominicobiala/WorkSpace/Stage3/StudentGradeManager/StudentGradeManager.csproj": {}
   },
   "projects": {
-    "/Users/dominicobiala/WorkSpace/StudentGradeManager/StudentGradeManager.csproj": {
+    "/Users/dominicobiala/WorkSpace/Stage3/StudentGradeManager/StudentGradeManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dominicobiala/WorkSpace/StudentGradeManager/StudentGradeManager.csproj",
+        "projectUniqueName": "/Users/dominicobiala/WorkSpace/Stage3/StudentGradeManager/StudentGradeManager.csproj",
         "projectName": "StudentGradeManager",
-        "projectPath": "/Users/dominicobiala/WorkSpace/StudentGradeManager/StudentGradeManager.csproj",
+        "projectPath": "/Users/dominicobiala/WorkSpace/Stage3/StudentGradeManager/StudentGradeManager.csproj",
         "packagesPath": "/Users/dominicobiala/.nuget/packages/",
-        "outputPath": "/Users/dominicobiala/WorkSpace/StudentGradeManager/obj/",
+        "outputPath": "/Users/dominicobiala/WorkSpace/Stage3/StudentGradeManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dominicobiala/.nuget/NuGet/NuGet.Config"

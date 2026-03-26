@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/bin/Debug/net10.0/ActionFuncPlay
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/bin/Debug/net10.0/ActionFuncPlay.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/bin/Debug/net10.0/ActionFuncPlay.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/bin/Debug/net10.0/ActionFuncPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/bin/Debug/net10.0/ActionFuncPlay.pdb
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/refint/ActionFuncPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.pdb
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ActionFuncPlay.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/ActionFuncPlay/obj/Debug/net10.0/ref/ActionFuncPlay.dll

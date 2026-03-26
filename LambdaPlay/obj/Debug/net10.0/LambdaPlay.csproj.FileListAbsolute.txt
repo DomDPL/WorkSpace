@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/bin/Debug/net10.0/LambdaPlay
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/bin/Debug/net10.0/LambdaPlay.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/bin/Debug/net10.0/LambdaPlay.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/bin/Debug/net10.0/LambdaPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/bin/Debug/net10.0/LambdaPlay.pdb
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/refint/LambdaPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.pdb
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/LambdaPlay.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/LambdaPlay/obj/Debug/net10.0/ref/LambdaPlay.dll

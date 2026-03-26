@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dominicobiala/WorkSpace/StaticticCalculator/StaticticCalculator.csproj": {}
+    "/Users/dominicobiala/WorkSpace/Stage3/StaticticCalculator/StaticticCalculator.csproj": {}
   },
   "projects": {
-    "/Users/dominicobiala/WorkSpace/StaticticCalculator/StaticticCalculator.csproj": {
+    "/Users/dominicobiala/WorkSpace/Stage3/StaticticCalculator/StaticticCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dominicobiala/WorkSpace/StaticticCalculator/StaticticCalculator.csproj",
+        "projectUniqueName": "/Users/dominicobiala/WorkSpace/Stage3/StaticticCalculator/StaticticCalculator.csproj",
         "projectName": "StaticticCalculator",
-        "projectPath": "/Users/dominicobiala/WorkSpace/StaticticCalculator/StaticticCalculator.csproj",
+        "projectPath": "/Users/dominicobiala/WorkSpace/Stage3/StaticticCalculator/StaticticCalculator.csproj",
         "packagesPath": "/Users/dominicobiala/.nuget/packages/",
-        "outputPath": "/Users/dominicobiala/WorkSpace/StaticticCalculator/obj/",
+        "outputPath": "/Users/dominicobiala/WorkSpace/Stage3/StaticticCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dominicobiala/.nuget/NuGet/NuGet.Config"

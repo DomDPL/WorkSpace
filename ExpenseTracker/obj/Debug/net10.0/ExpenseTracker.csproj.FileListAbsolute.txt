@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.dll
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/bin/Debug/net10.0/ExpenseTracker.pdb
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.dll
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/refint/ExpenseTracker.dll
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.pdb
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ExpenseTracker.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/ExpenseTracker/obj/Debug/net10.0/ref/ExpenseTracker.dll

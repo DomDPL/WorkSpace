@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dominicobiala/WorkSpace/LinqExercise/LinqExercise.csproj",
+      "projectUniqueName": "/Users/dominicobiala/WorkSpace/Stage3/LinqExercise/LinqExercise.csproj",
       "projectName": "LinqExercise",
-      "projectPath": "/Users/dominicobiala/WorkSpace/LinqExercise/LinqExercise.csproj",
+      "projectPath": "/Users/dominicobiala/WorkSpace/Stage3/LinqExercise/LinqExercise.csproj",
       "packagesPath": "/Users/dominicobiala/.nuget/packages/",
-      "outputPath": "/Users/dominicobiala/WorkSpace/LinqExercise/obj/",
+      "outputPath": "/Users/dominicobiala/WorkSpace/Stage3/LinqExercise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dominicobiala/.nuget/NuGet/NuGet.Config"
