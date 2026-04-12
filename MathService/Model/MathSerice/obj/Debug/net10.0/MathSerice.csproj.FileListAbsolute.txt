@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/bin/Debug/net10.0/MathSerice
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/bin/Debug/net10.0/MathSerice.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/bin/Debug/net10.0/MathSerice.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/bin/Debug/net10.0/MathSerice.dll
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/bin/Debug/net10.0/MathSerice.pdb
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.dll
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/refint/MathSerice.dll
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.pdb
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/MathSerice.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/MathService/Model/MathSerice/obj/Debug/net10.0/ref/MathSerice.dll

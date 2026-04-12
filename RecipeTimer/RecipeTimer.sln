@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeTimer", "RecipeTimer.csproj", "{671171C5-8DFD-E4E2-A603-C139D0A800EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671171C5-8DFD-E4E2-A603-C139D0A800EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671171C5-8DFD-E4E2-A603-C139D0A800EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671171C5-8DFD-E4E2-A603-C139D0A800EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671171C5-8DFD-E4E2-A603-C139D0A800EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7630D0FE-AAF4-4D54-98DB-89DAC55F8A68}
+	EndGlobalSection
+EndGlobal

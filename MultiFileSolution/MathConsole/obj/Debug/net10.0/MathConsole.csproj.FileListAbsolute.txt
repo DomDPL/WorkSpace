@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/bin/Debug/net10.0/MathConsole
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/bin/Debug/net10.0/MathConsole.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/bin/Debug/net10.0/MathConsole.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/bin/Debug/net10.0/MathConsole.dll
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/bin/Debug/net10.0/MathConsole.pdb
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.dll
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/refint/MathConsole.dll
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.pdb
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/MathConsole.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/MultiFileSolution/MathConsole/obj/Debug/net10.0/ref/MathConsole.dll

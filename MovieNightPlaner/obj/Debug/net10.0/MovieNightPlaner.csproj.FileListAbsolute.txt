@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/bin/Debug/net10.0/MovieNightPlaner
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/bin/Debug/net10.0/MovieNightPlaner.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/bin/Debug/net10.0/MovieNightPlaner.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/bin/Debug/net10.0/MovieNightPlaner.dll
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/bin/Debug/net10.0/MovieNightPlaner.pdb
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.dll
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/refint/MovieNightPlaner.dll
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.pdb
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/MovieNightPlaner.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/MovieNightPlaner/obj/Debug/net10.0/ref/MovieNightPlaner.dll

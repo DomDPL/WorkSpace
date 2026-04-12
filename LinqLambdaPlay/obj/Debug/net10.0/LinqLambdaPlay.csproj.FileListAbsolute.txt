@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/bin/Debug/net10.0/LinqLambdaPlay
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/bin/Debug/net10.0/LinqLambdaPlay.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/bin/Debug/net10.0/LinqLambdaPlay.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/bin/Debug/net10.0/LinqLambdaPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/bin/Debug/net10.0/LinqLambdaPlay.pdb
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/refint/LinqLambdaPlay.dll
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.pdb
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/LinqLambdaPlay.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/LinqLambdaPlay/obj/Debug/net10.0/ref/LinqLambdaPlay.dll

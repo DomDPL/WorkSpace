@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/bin/Debug/net10.0/ValueVsReference
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/bin/Debug/net10.0/ValueVsReference.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/bin/Debug/net10.0/ValueVsReference.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/bin/Debug/net10.0/ValueVsReference.dll
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/bin/Debug/net10.0/ValueVsReference.pdb
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.dll
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/refint/ValueVsReference.dll
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.pdb
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ValueVsReference.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/ValueVsReference/obj/Debug/net10.0/ref/ValueVsReference.dll

@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/bin/Debug/net10.0/DownloadManager
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/bin/Debug/net10.0/DownloadManager.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/bin/Debug/net10.0/DownloadManager.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/bin/Debug/net10.0/DownloadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/bin/Debug/net10.0/DownloadManager.pdb
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/refint/DownloadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.pdb
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/DownloadManager.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/DownloadManager/obj/Debug/net10.0/ref/DownloadManager.dll

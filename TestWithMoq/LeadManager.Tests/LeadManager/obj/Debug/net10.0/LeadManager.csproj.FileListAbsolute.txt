@@ -1,0 +1,12 @@
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/bin/Debug/net10.0/LeadManager.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/bin/Debug/net10.0/LeadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/bin/Debug/net10.0/LeadManager.pdb
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/refint/LeadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.pdb
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/ref/LeadManager.dll
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/LeadManager.Tests/LeadManager/obj/Debug/net10.0/LeadManager.AssemblyInfo.cs

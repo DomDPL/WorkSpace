@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/bin/Debug/net10.0/GenericsPractice
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/bin/Debug/net10.0/GenericsPractice.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/bin/Debug/net10.0/GenericsPractice.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/bin/Debug/net10.0/GenericsPractice.dll
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/bin/Debug/net10.0/GenericsPractice.pdb
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.dll
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/refint/GenericsPractice.dll
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.pdb
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/GenericsPractice.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/GenericsPractice/obj/Debug/net10.0/ref/GenericsPractice.dll

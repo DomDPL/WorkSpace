@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActionFuncPlay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a0c2fcf73145bce6d4dc8c7077387e5725e7d95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eadbf44baa32b7584557cd93ccf1f1e30cb5a558")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActionFuncPlay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActionFuncPlay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DPLRef.eCommerce.Common.Shared\DPLRef.eCommerce.Common.Shared.csproj" />
+    <ProjectReference Include="..\DPLRef.eCommerce.Utilities\DPLRef.eCommerce.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -35,8 +35,8 @@ namespace NumberStatistics
             {
                 // TODO: Ask how many numbers to enter (3 to 8)
                 Console.WriteLine("How many numbers would you like to calculate (3 - 8)");
-                string input = Console.ReadLine()?.Trim();
-                while(!int.TryParse(input, out int validInput) || validInput < 3 || validInput > 8)
+                string? input = Console.ReadLine()?.Trim();
+                while (!int.TryParse(input, out int validInput) || validInput < 3 || validInput > 8)
                 {
                     Console.WriteLine("Error: enter numbet between 3 and 8.");
                     input = Console.ReadLine()?.Trim();
@@ -50,10 +50,11 @@ namespace NumberStatistics
                 int indexer = 1;
                 int start = int.Parse(input);
                 //bool exit = false;
-                do{
+                do
+                {
 
                     Console.WriteLine($"Enter number {indexer}:");
-                    string numberInput = Console.ReadLine()?.Trim();
+                    string? numberInput = Console.ReadLine()?.Trim();
 
                     while (!int.TryParse(numberInput, out int number))
                     {
@@ -63,9 +64,9 @@ namespace NumberStatistics
                     store.Add(int.Parse(numberInput));
                     counter++;
                     indexer++;
-                    
-                }while(counter < start);
-                
+
+                } while (counter < start);
+
                 // TODO: Calculate 
                 // sum, 
                 var sum = store.Sum();
@@ -79,12 +80,12 @@ namespace NumberStatistics
 
                 // TODO: Display all results neatly
                 string concat = "";
-                for(int i = 0; i < store.Count; i++ )
+                for (int i = 0; i < store.Count; i++)
                 {
                     var display = store[i] + " + ";
                     concat += display;
                 }
-                if(concat.EndsWith(" + "))
+                if (concat.EndsWith(" + "))
                 {
                     concat = concat.Substring(0, concat.Length - 3); // Remove the last " + " from the string
                 }
@@ -97,7 +98,7 @@ namespace NumberStatistics
                 Console.WriteLine($"Smallest number: {min}");
 
                 Console.WriteLine("\nWould you like to run again? (yes/no)");
-                string answer = Console.ReadLine().ToLower().Trim();
+                string? answer = Console.ReadLine()?.ToLower().Trim();
                 runAgain = answer == "yes" || answer == "y";
             }
 

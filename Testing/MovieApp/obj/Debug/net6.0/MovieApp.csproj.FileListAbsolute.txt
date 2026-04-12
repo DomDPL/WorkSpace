@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/bin/Debug/net6.0/MovieApp
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/bin/Debug/net6.0/MovieApp.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/bin/Debug/net6.0/MovieApp.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/bin/Debug/net6.0/MovieApp.dll
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/bin/Debug/net6.0/MovieApp.pdb
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.dll
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/refint/MovieApp.dll
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.pdb
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/MovieApp.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/Testing/MovieApp/obj/Debug/net6.0/ref/MovieApp.dll

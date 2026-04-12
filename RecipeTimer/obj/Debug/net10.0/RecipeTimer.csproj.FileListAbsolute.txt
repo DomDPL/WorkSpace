@@ -1,0 +1,15 @@
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/bin/Debug/net10.0/RecipeTimer
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/bin/Debug/net10.0/RecipeTimer.deps.json
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/bin/Debug/net10.0/RecipeTimer.runtimeconfig.json
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/bin/Debug/net10.0/RecipeTimer.dll
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/bin/Debug/net10.0/RecipeTimer.pdb
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.AssemblyInfoInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.AssemblyInfo.cs
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.csproj.CoreCompileInputs.cache
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.sourcelink.json
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.dll
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/refint/RecipeTimer.dll
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.pdb
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/RecipeTimer.genruntimeconfig.cache
+/Users/dominicobiala/WorkSpace/Stage3/RecipeTimer/obj/Debug/net10.0/ref/RecipeTimer.dll
